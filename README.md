@@ -3,7 +3,7 @@
 ## History
 
 This was a tool I made during my NYUAD undergraduate thesis. 
-The full proyect was an end to end algorithm to predict emotional valance and arousal based on 32-channel EEG raw data. 
+The full project was an end to end algorithm to predict emotional valance and arousal based on 32-channel EEG raw data. 
 
 ## Framework
 
