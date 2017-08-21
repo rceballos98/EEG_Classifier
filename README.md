@@ -1,5 +1,10 @@
 # EEG_classification_framework
 
+## History
+
+This was a tool I made during my NYUAD undergraduate thesis. 
+The full proyect was an end to end algorithm to predict emotional valance and arousal based on 32-channel EEG raw data. 
+
 ## Framework
 
 This is an EEG classification framework that allows for easier, more stuctured machine learning based classification of EEG data in MATLAB.
